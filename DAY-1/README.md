@@ -26,7 +26,7 @@ __2. Types of Cyber Security threads__:
 <details>
    <summary>5. Man-in-the-Middle Attack</summary>
    <p>When criminals interrupt the traffic between a two-party transaction.!
-   ![mima](https://github.com/user-attachments/assets/2e051ef1-917c-4558-a88d-9416add5153a)</p>
+   ![mima](https://github.com/ajayDev007/cybersecurity-notes/blob/main/mima.png?raw=true)</p>
 </details>                 
 <details>
    <summary>6. Zero-day attack</summary>
