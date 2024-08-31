@@ -4,7 +4,9 @@
 #### Our Trainer/Mentor: VAISHNAVU CV, Principal CyberSecurity Engineer | Mentor| Cyber Security Consultant | SME | VAPT | Ethical Hacker | CyberRange Developer | CTF | (Linkedin: https://www.linkedin.com/in/vaishnavucv/)
 ### Topics discussed
 __1. Introduction:__ What is Cyber Security?
-Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information.
++ Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information.
++ As the digital landscape continues to evolve, staying updated on the latest trends and threat vectors is essential. Cybersecurity is not just a technical issue; it’s a fundamental component of modern life that affects everyone from individuals to global corporations.
++ Effective cybersecurity requires a multi-layered approach, including robust security policies, employee training, and advanced technological defenses.
 
 __2. Types of Cyber Security threads__: 
 <details>
