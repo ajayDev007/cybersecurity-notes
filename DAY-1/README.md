@@ -9,7 +9,9 @@ Cybersecurity is the practice of protecting systems, networks, and programs from
 __2. Types of Cyber Security threads__: 
 <details>
    <summary>1. Phishing</summary>
-   <p>Uses fraudulent emails, text messages, phone calls or websites to trick people into sharing sensitive data, downloading malware or otherwise exposing themselves to cybercrime.</p>
+   <p>Uses fraudulent emails, text messages, phone calls or websites to trick people into sharing sensitive data, downloading malware or otherwise exposing themselves to cybercrime.
+      
+   ![phishing_working_2-What_Is_Phishing](https://github.com/user-attachments/assets/14fbe633-d640-46bb-a5c3-c78ec56b54c7)</p>
 </details>
 <details>
    <summary>2. Ransmware</summary>
