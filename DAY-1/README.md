@@ -7,6 +7,10 @@ __1. Introduction:__ What is Cyber Security?
 Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information.
 
 __2. Types of Cyber Security threads__: 
+<details>
+   <summary>1. Phishing</summary>
+   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
 1. Phishing                             
 2. Ransomware                              
 3. Malware                             
