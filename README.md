@@ -1,3 +1,4 @@
-# cybersecurity notes(5/8/24)
-## DAY 1
+# cybersecurity notes
+this repository contains the details of my journey with the Cyber Security internship
+
 
