@@ -9,27 +9,27 @@ Cybersecurity is the practice of protecting systems, networks, and programs from
 __2. Types of Cyber Security threads__: 
 <details>
    <summary>1. Phishing</summary>
-   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+   <p>Uses fraudulent emails, text messages, phone calls or websites to trick people into sharing sensitive data, downloading malware or otherwise exposing themselves to cybercrime.</p>
 </details>
 <details>
    <summary>2. Ransmware</summary>
-   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+   <p>Malware that locks and encrypts a victim's data, files, devices or systems, rendering them inaccessible and unusable until the attacker receives a ransom payment.</p>
 </details>
 <details>
    <summary>3. Malware</summary>
-   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+   <p>Any intrusive software developed by cyber criminals to steal data and damage or destroy computers and computer systems.</p>
 </details>                             
 <details>
    <summary>4. Social Engineering</summary>
-   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+   <p>Cyber security tactic that involves tricking people into sharing sensitive information or performing actions that can compromise computer systems or steal personal information.</p>
 </details>                             
 <details>
-   <summary>Man-in-the-Middle Attack</summary>
+   <summary>5. Man-in-the-Middle Attack</summary>
    <p>When criminals interrupt the traffic between a two-party transaction.![Imgur](https://imgur.com/u8KO4nn)</p>
 </details>                 
 <details>
-   <summary>Zero-day attack</summary>
-   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+   <summary>6. Zero-day attack</summary>
+   <p>A zero-day attack takes place when hackers exploit the flaw before developers have a chance to address it.</p>
 </details>            
 
                     
