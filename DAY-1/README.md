@@ -11,16 +11,31 @@ __2. Types of Cyber Security threads__:
    <summary>1. Phishing</summary>
    <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
-1. Phishing                             
-2. Ransomware                              
-3. Malware                             
-4. Social engineering                   
-5. Man-in-the-Middle Attack             
-6. Zero-day attack                      
+<details>
+   <summary>2. Ransmware</summary>
+   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+<details>
+   <summary>3. Malware</summary>
+   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>                             
+<details>
+   <summary>4. Social Engineering</summary>
+   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>                             
+<details>
+   <summary>Man-in-the-Middle Attack</summary>
+   <p>When criminals interrupt the traffic between a two-party transaction.</p>
+</details>                 
+<details>
+   <summary>Zero-day attack</summary>
+   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>            
+                    
 
-* Man-in-the-Middle Attack: When criminals interrupt the traffic between a two-party transaction.
 
-![alt text]([Imgur](https://imgur.com/u8KO4nn))
+
+
    
 
 
