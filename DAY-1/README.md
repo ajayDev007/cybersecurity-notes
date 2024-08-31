@@ -20,7 +20,7 @@ __2. Types of Cyber Security threads__:
 
 * Man-in-the-Middle Attack: When criminals interrupt the traffic between a two-party transaction.
 
-![alt text](http://url/to/img.png)
+![alt text]([Imgur](https://imgur.com/u8KO4nn))
    
 
 
