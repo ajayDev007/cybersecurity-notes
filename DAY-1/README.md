@@ -25,12 +25,14 @@ __2. Types of Cyber Security threads__:
 </details>                             
 <details>
    <summary>5. Man-in-the-Middle Attack</summary>
-   <p>When criminals interrupt the traffic between a two-party transaction.!</p>
+   <p>When criminals interrupt the traffic between a two-party transaction.!
+   ![Illustration-of-a-Man-in-the-Middle-attack](https://github.com/user-attachments/assets/da9bea3d-3d41-449b-9c03-f32cba687ce7)</p>
 </details>                 
 <details>
    <summary>6. Zero-day attack</summary>
    <p>A zero-day attack takes place when hackers exploit the flaw before developers have a chance to address it.</p>
 </details>   
+
 
 __3. A small peak about the Dark Web__:
 
