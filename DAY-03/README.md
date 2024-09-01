@@ -24,7 +24,14 @@ Here are some basic Kali Linux commands that are commonly used:
  * **`cat`**: Concatenate and display file content 
  * **`nano, vi`**: Text editors 
  * **`clear`**: Clear the terminal screen 
+
  * **`exit`**: Exit the terminal
+
+### Linux file system/directory
+![Linux file system directory](https://github.com/user-attachments/assets/137fe9aa-80dc-428a-8905-02ed42455943)
+
+
+
 
 
 
