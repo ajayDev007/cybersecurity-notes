@@ -103,3 +103,6 @@ __**Other Directories**__
 * *`/proc`*: Kernel and process information.
 * *`/root`*: Home directory for the root user.
 
+## Conclusion
+
+
