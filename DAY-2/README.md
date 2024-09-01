@@ -25,6 +25,11 @@ __2. VMware Workstation__
 ------------------------------------------------------------------------------------------------------------------------------------------
 Kali Linux is an open-source distribution designed for cybersecurity professionals, ethical hackers, and penetration testers. It comes pre-loaded with a vast array of tools for various security-related tasks, making it a popular choice for those involved in security research, network security, and digital forensics.
 
+__Kali Linux for Virtual Box__
+* Download the pre-built VM of [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines)
+* Extract the zip file using [7-Zip](https://7-zip.org/download.html)
+* Open Virutal Box and add the extracted file and open it.
+
 
   
 
