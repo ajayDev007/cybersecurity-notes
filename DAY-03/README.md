@@ -75,8 +75,8 @@ __**`/sbin`** - Essential System Binaries__
 * *`ifconfig`*: Network interface configuration.
 * *`init`*: System initialization.
 * *`mkfs`*: Build a filesystem.
-* *`reboot*`: Reboot the system.
-route: Show/manipulate the IP routing table.
+* *`reboot`*: Reboot the system.
+* *`route`*: Show/manipulate the IP routing table.
 
 
 
