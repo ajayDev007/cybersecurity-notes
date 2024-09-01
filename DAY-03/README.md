@@ -30,6 +30,36 @@ Here are some basic Kali Linux commands that are commonly used:
 ### Linux file system/directory
 ![Linux file system directory](https://github.com/user-attachments/assets/137fe9aa-80dc-428a-8905-02ed42455943)
 
+Here's a brief overview of the commands and directories of Linux file system:
+
+__**`/bin`** - Essential User Command Binaries__
+* *`bash`*: Shell interpreter.
+* *`cat`*: Concatenate and display file contents.
+* *`chmod`*: Change file permissions.
+* *`cp`*: Copy files or directories.
+* *`date`*: Display or set the system date and time.
+* *`echo`*: Display a line of text.
+* *`grep`*: Search text using patterns.
+* *`gzip/gunzip`*: Compress/decompress files.
+* *`hostname`*: Display or set the system's hostname.
+* *`kill`*: Terminate a process by its ID.
+* *`less/more`*: View file contents page by page.
+* *`ln`*: Create hard and symbolic links.
+* *`ls`*: List directory contents.
+* *`mkdir`*: Create directories.
+* *`mount/umount`*: Mount/unmount filesystems.
+* *`mv`*: Move or rename files or directories.
+* *`nano`*: Text editor.
+* *`ping`*: Check network connectivity.
+* *`ps`*: Display currently running processes.
+* *`pwd`*: Print current working directory.
+* *`rm`*: Remove files or directories.
+* *`sh`*: Shell interpreter.
+* *`su`*: Switch user.
+* *`tar`*: Archive files.
+* *`touch`*: Create empty files or update timestamps.
+* *`uname`*: Display system information.
+
 
 
 
