@@ -14,12 +14,17 @@ Virtual machines are essential tools in modern computing, enabling flexibility, 
 
 ### Commonly used VMs
 __1. Virtual Box__
-* [Virtual box](https://www.virtualbox.org/wiki/Downloads)
+* [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 * Download the required file from the link above and install it
 
 __2. VMware Workstation__
 * [VMware Workstation 17](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
 * Download the file from the link about but you'll have to first register through Broadcom(the process is quite complicated)
+
+### Kali Linux for Ethical Hacking
+Kali Linux is an open-source distribution designed for cybersecurity professionals, ethical hackers, and penetration testers. It comes pre-loaded with a vast array of tools for various security-related tasks, making it a popular choice for those involved in security research, network security, and digital forensics.
+
+
   
 
 
