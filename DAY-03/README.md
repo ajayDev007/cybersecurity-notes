@@ -60,7 +60,15 @@ __**`/bin`** - Essential User Command Binaries__
 * *`tar`*: Archive files.
 * *`touch`*: Create empty files or update timestamps.
 * *`uname`*: Display system information.
-
+------------------------------------------------------------------------------------------------------------------------------------------
+__**`/etc`** - Configuration Files__
+crontab: Schedule tasks.
+fstab: Filesystem table configuration.
+hostname: Hostname configuration.
+hosts.allow/deny: Security access control.
+passwd: User account details.
+resolv.conf: DNS resolution configuration.
+shells: Approved shells list.
 
 
 
