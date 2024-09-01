@@ -25,3 +25,6 @@ Here are some basic Kali Linux commands that are commonly used:
  * nano, vi: Text editors 
  * clear: Clear the terminal screen 
  * exit: Exit the terminal
+
+**`pwd`**: Print Working Directory. Shows the current directory you are in.
+
