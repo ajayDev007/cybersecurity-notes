@@ -28,6 +28,7 @@ Here are some basic Kali Linux commands that are commonly used:
  * **`exit`**: Exit the terminal
 
 ### Linux file system/directory
+
 ![Linux file system directory](https://github.com/user-attachments/assets/137fe9aa-80dc-428a-8905-02ed42455943)
 
 Here's a brief overview of the commands and directories of Linux file system:
