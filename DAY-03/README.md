@@ -104,5 +104,6 @@ __**Other Directories**__
 * *`/root`*: Home directory for the root user.
 
 ## Conclusion
+The image outlines essential Linux commands and directories, This structure is crucial for understanding Linux system organization and effective command-line usage.
 
 
