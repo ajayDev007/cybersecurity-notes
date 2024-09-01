@@ -21,6 +21,8 @@
 * **`iwconfig`**: Configure a wireless network interface.
 
 #### __Networking tools__
-
+* __Wireshark:__
+  * Wireshark is a widely used network protocol analyzer, often referred to as a packet sniffer. It allows you to capture and interactively browse the traffic running on a computer network in real-time. Wireshark is an essential tool for network administrators, security professionals, and anyone interested in learning more about how networks operate.
+ > Wireshark is a powerful tool, but it's important to use it responsibly, particularly in environments where monitoring traffic could breach privacy or legal agreements.
 
  
