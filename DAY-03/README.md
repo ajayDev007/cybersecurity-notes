@@ -1,5 +1,5 @@
-### Basic Linux commands
-## DAY-03(8/8/24)
+## Basic Linux commands
+### DAY-03(8/8/24)
 
 Here are some basic Kali Linux commands that are commonly used:
 
