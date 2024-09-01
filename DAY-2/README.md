@@ -28,8 +28,19 @@ Kali Linux is an open-source distribution designed for cybersecurity professiona
 __Kali Linux for Virtual Box__
 * Download the pre-built VM of [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines)
 * Extract the zip file using [7-Zip](https://7-zip.org/download.html)
-* Open Virutal Box and add the extracted file and open it.
+* Open Virutal Box and add the extracted file then open it.
 
+  __Alternatives of Kali linux__
+  While Kali Linux is a popular choice for penetration testing and cybersecurity tasks, several other Linux distributions offer similar capabilities. Here are some notable alternatives to Kali Linux:
+
+<details>
+           <summary>1. Parrot OS</summary>
+           <p>* Parrot Security OS is a Debian-based distribution focused on security, privacy, and development. It is designed for penetration testing, forensics, reverse engineering, and cryptography.
+* Features:
+* Lightweight compared to Kali Linux.
+* Comes with a wide range of tools similar to Kali Linux, but also includes privacy-oriented features like AnonSurf, which routes traffic through the Tor network.
+* Includes development tools and environments for programming and scripting.</p>
+         </details>
 
   
 
