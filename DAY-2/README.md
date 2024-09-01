@@ -33,14 +33,7 @@ __Kali Linux for Virtual Box__
   __Alternatives of Kali linux__
   While Kali Linux is a popular choice for penetration testing and cybersecurity tasks, several other Linux distributions offer similar capabilities. Here are some notable alternatives to Kali Linux:
 
-<details>
-           <summary>1. Parrot OS</summary>
-           <p>* Parrot Security OS is a Debian-based distribution focused on security, privacy, and development. It is designed for penetration testing, forensics, reverse engineering, and cryptography.
-* Features:
-* Lightweight compared to Kali Linux.
-* Comes with a wide range of tools similar to Kali Linux, but also includes privacy-oriented features like AnonSurf, which routes traffic through the Tor network.
-* Includes development tools and environments for programming and scripting.</p>
-         </details>
+1
 
   
 
