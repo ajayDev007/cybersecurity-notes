@@ -3,7 +3,7 @@
 
 Here are some basic Kali Linux commands that are commonly used:
 
- * 'ls()': List directory contents 
+ * 'ls()' : List directory contents 
  * cd: Change directory 
  * pwd: Print working directory 
  * mkdir: Make a directory 
