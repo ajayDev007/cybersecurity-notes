@@ -60,15 +60,23 @@ __**`/bin`** - Essential User Command Binaries__
 * *`tar`*: Archive files.
 * *`touch`*: Create empty files or update timestamps.
 * *`uname`*: Display system information.
-------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 __**`/etc`** - Configuration Files__
 * *`crontab`*: Schedule tasks.
 * *`fstab`*: Filesystem table configuration.
 * *`hostname`*: Hostname configuration.
 * *`hosts.allow/deny`*: Security access control.
 * *`sswd`*: User account details.
-* *`resolv.conf*`: DNS resolution configuration.
+* *`resolv.conf`*: DNS resolution configuration.
 * *`shells`*: Approved shells list.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+__**`/sbin`** - Essential System Binaries__
+fdisk: Partition table manipulator.
+ifconfig: Network interface configuration.
+init: System initialization.
+mkfs: Build a filesystem.
+reboot: Reboot the system.
+route: Show/manipulate the IP routing table.
 
 
 
