@@ -86,7 +86,11 @@ __**`/usr`** - Read-only User Application Support Data & Binaries__
 * *`/usr/share`*: Shared data across architectures.
 
 ----------------------------------------------------------------
-
+__*`/var`* - Variable Data Files/var/cache: Application cache data.__
+* *`/var/lib`*: State information.
+* *`/var/log`*: Log files.
+* *`/var/spool`*: Task queue data.
+/var/tmp: Temporary files.
 
 
 
