@@ -22,6 +22,7 @@ __2. VMware Workstation__
 * Download the file from the link about but you'll have to first register through Broadcom(the process is quite complicated)
 
 ### Kali Linux for Ethical Hacking
+------------------------------------------------------------------------------------------------------------------------------------------
 Kali Linux is an open-source distribution designed for cybersecurity professionals, ethical hackers, and penetration testers. It comes pre-loaded with a vast array of tools for various security-related tasks, making it a popular choice for those involved in security research, network security, and digital forensics.
 
 
