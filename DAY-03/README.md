@@ -78,6 +78,15 @@ __**`/sbin`** - Essential System Binaries__
 * *`reboot`*: Reboot the system.
 * *`route`*: Show/manipulate the IP routing table.
 
+----------------------------------------------------------------
+__**`/usr`** - Read-only User Application Support Data & Binaries__
+* *`/usr/bin`*: User commands./usr/include: Standard include files.
+* *`/usr/lib`*: Object files, libraries.
+* *`/usr/local`*: Local software.
+* *`/usr/share`*: Shared data across architectures.
+
+----------------------------------------------------------------
+
 
 
 
