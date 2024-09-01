@@ -42,7 +42,7 @@ __Kali Linux for Virtual Box__
 
 There are few more alternatives of Kali linux like _Pentoo_, _DEFT Linux (Digital Evidence and Forensics Toolkit)_, _ArchStrike_, _Bugtraq_
 
-### Conslusion
+## Conslusion
 * Understanding and utilizing virtual machines (VMs) is fundamental in modern IT practices, offering flexibility, security, and efficiency across various applications.
 * In summary, the combination of VMs and specialized Linux distributions like Kali Linux creates a powerful framework for tackling modern cybersecurity challenges, empowering professionals to secure, test, and analyze systems effectively.
 
