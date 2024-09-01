@@ -1,4 +1,4 @@
-## Networking commands & tools
+## Networking commands & tool
 ### DAY-04(9/8/24)
 #### Linux provides a range of powerful networking commands that are essential for configuring, monitoring, and troubleshooting network connections. Here's an overview of some commonly used Linux networking commands:
 
@@ -26,5 +26,10 @@
   * Wireshark is a widely used network protocol analyzer, often referred to as a packet sniffer. It allows you to capture and interactively browse the traffic running on a computer network in real-time. Wireshark is an essential tool for network administrators, security professionals, and anyone interested in learning more about how networks operate.
   * Visit [Wireshark's documentation](https://www.wireshark.org/docs/) to learn more about the tool.
  > Wireshark is a powerful tool, but it's important to use it responsibly, particularly in environments where monitoring traffic could breach privacy or legal agreements.
+Other networking tools include __*Nmap*__, __*Aircrack-ng*__, __*John the ripper*__, __*Hydra*__, __*Metasploit Framework*__, __*Burp suite*__ etc, which we will be learning in the upcoming sessions.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+#### __Virtual Private Network (VPN)__
+
  
  
