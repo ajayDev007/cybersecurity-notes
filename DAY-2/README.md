@@ -11,6 +11,15 @@ __2. Uses of VMs:__
 * _Disaster Recovery:_ VMs can be easily backed up and restored, making them useful for disaster recovery planning.
         
 Virtual machines are essential tools in modern computing, enabling flexibility, efficiency, and security in various IT operations.
+
+### Commonly used VMs
+__1. Virtual Box__
+* [Virtual box](https://www.virtualbox.org/wiki/Downloads)
+* Download the required file from the link above and install it
+
+__2. VMware Workstation__
+* [VMware Workstation 17](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
+* Download the file from the link about but you'll have to first register through Broadcom(the process is quite complicated)
   
 
 
