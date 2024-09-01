@@ -7,6 +7,10 @@ this repository contains the details of my journey with the Cyber Security inter
 
 [DAY-03](https://github.com/ajayDev007/cybersecurity-notes/blob/main/DAY-03/README.md): Linux commands
 
-[DAY-04](https://github.com/ajayDev007/cybersecurity-notes/blob/main/DAY-04/README.md):
+[DAY-04](https://github.com/ajayDev007/cybersecurity-notes/blob/main/DAY-04/README.md): Networking commands & Wireshark
+
+[DAY-05](https://github.com/ajayDev007/cybersecurity-notes/blob/main/DAY-05/README.md):
+
+[DAY-06](https://github.com/ajayDev007/cybersecurity-notes/blob/main/DAY-06/README.md):
 
 
