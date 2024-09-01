@@ -71,11 +71,11 @@ __**`/etc`** - Configuration Files__
 * *`shells`*: Approved shells list.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 __**`/sbin`** - Essential System Binaries__
-fdisk: Partition table manipulator.
-ifconfig: Network interface configuration.
-init: System initialization.
-mkfs: Build a filesystem.
-reboot: Reboot the system.
+* *`fdisk`*: Partition table manipulator.
+* *`ifconfig`*: Network interface configuration.
+* *`init`*: System initialization.
+* *`mkfs`*: Build a filesystem.
+* *`reboot*`: Reboot the system.
 route: Show/manipulate the IP routing table.
 
 
