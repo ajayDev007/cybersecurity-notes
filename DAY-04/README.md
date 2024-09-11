@@ -28,7 +28,7 @@
   * A tipical Wireshark Interface ![Wireshark-Interface](https://github.com/user-attachments/assets/88184080-33e7-42f3-a995-7754dd99da28)
 
  > Wireshark is a powerful tool, but it's important to use it responsibly, particularly in environments where monitoring traffic could breach privacy or legal agreements.
-> Common Use Cases for Wireshark:
+* __Common use cases of Wireshark:__
 * Network Troubleshooting: Identifying and resolving network performance issues or connectivity problems.
 * Security Analysis: Detecting and investigating security threats, such as unauthorized access or malware activity.
 * Protocol Analysis: Understanding the behavior of network protocols and developing new applications or services.
