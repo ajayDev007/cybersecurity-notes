@@ -25,7 +25,14 @@
 
   * Wireshark is a widely used network protocol analyzer, often referred to as a packet sniffer. It allows you to capture and interactively browse the traffic running on a computer network in real-time. Wireshark is an essential tool for network administrators, security professionals, and anyone interested in learning more about how networks operate.
   * Visit [Wireshark's documentation](https://www.wireshark.org/docs/) to learn more about the tool.
+  * A tipical Wireshark Interface ![Wireshark-Interface](https://github.com/user-attachments/assets/88184080-33e7-42f3-a995-7754dd99da28)
+
  > Wireshark is a powerful tool, but it's important to use it responsibly, particularly in environments where monitoring traffic could breach privacy or legal agreements.
+> Common Use Cases for Wireshark:
+* Network Troubleshooting: Identifying and resolving network performance issues or connectivity problems.
+* Security Analysis: Detecting and investigating security threats, such as unauthorized access or malware activity.
+* Protocol Analysis: Understanding the behavior of network protocols and developing new applications or services.
+* Education and Training: Learning about network concepts and how different protocols work.
 
 #### Other networking tools include __*Nmap*__, __*Aircrack-ng*__, __*John the ripper*__, __*Hydra*__, __*Metasploit Framework*__, __*Burp suite*__ etc, which we will be learning in the upcoming sessions.
 ------------------------------------------------------------------------------------------------------------------------------------------
