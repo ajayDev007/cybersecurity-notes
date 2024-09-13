@@ -54,7 +54,7 @@ A Virtual Private Network (VPN) is a technology that creates a secure, encrypted
  * Secure Data Transmission: Your internet traffic is sent through the encrypted tunnel to the VPN server. From there, it reaches its intended destination, such as a website or online service. On the return journey, the data is encrypted again and sent back through the tunnel to your device.
 
 ## Conclusion
------------------------------------------------------------------------------------------------------------------------------------------
+
 This resource provides a solid foundation for understanding Linux networking. It covers essential commands for tasks like testing connectivity (ping) and managing interfaces (ifconfig). It also introduces the powerful Wireshark tool for network analysis and troubleshooting. Additionally, the document explores Virtual Private Networks (VPNs) and how they encrypt data for secure online communication.
 
 This knowledge equips users to manage basic network operations and lays the groundwork for further exploration of advanced networking tools mentioned like Nmap and Metasploit.
